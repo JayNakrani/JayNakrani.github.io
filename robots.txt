@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://dhananjaynakrani.com/sitemap.xml
+Sitemap: http://jaynakrani.com/sitemap.xml
